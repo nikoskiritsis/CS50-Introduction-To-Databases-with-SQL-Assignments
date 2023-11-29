@@ -1,0 +1,69 @@
++--------------------------------------------------+-----------+-----------------------+
+|                       name                       | exemplary | per_pupil_expenditure |
++--------------------------------------------------+-----------+-----------------------+
+| Orleans                                          | 78.9      | 31703.4               |
+| Wrentham                                         | 72.2      | 20107.03              |
+| Wellfleet                                        | 64.3      | 32788.2               |
+| Eastham                                          | 63.9      | 25444.12              |
+| Provincetown                                     | 61.1      | 41318.9               |
+| Conway                                           | 58.3      | 24771.6               |
+| Nauset                                           | 56        | 23259.47              |
+| Cape Cod Regional Vocational Technical           | 55.2      | 25144.25              |
+| Brewster                                         | 52.5      | 25117.33              |
+| Manchester Essex Regional                        | 50.3      | 21772.56              |
+| New Salem-Wendell                                | 42.1      | 22635.25              |
+| Dennis-Yarmouth                                  | 42.1      | 20728.4               |
+| King Philip                                      | 40.7      | 19918.26              |
+| Monomoy Regional School District                 | 39.2      | 20773.63              |
+| Triton                                           | 37.9      | 20857.87              |
+| Wareham                                          | 37.7      | 19728.99              |
+| Gill-Montague                                    | 37.4      | 20020.83              |
+| Mashpee                                          | 36.4      | 21104.55              |
+| Southern Berkshire                               | 35.8      | 23341.36              |
+| Ipswich                                          | 35.4      | 20686.9               |
+| Dover-Sherborn                                   | 34.3      | 21860.15              |
+| Martha's Vineyard                                | 32.9      | 34611.23              |
+| Blackstone Valley Regional Vocational Technical  | 31.5      | 21509.51              |
+| Marion                                           | 30.6      | 19704.86              |
+| Cambridge                                        | 30.3      | 35113.7               |
+| Hull                                             | 30.1      | 26154.61              |
+| Berkshire Hills                                  | 29.5      | 23998.57              |
+| Somerville                                       | 28        | 22729.93              |
+| Tri-County Regional Vocational Technical         | 27.9      | 22170.02              |
+| Foxborough                                       | 27.9      | 20620.81              |
+| Westhampton                                      | 26.9      | 20974.86              |
+| Wayland                                          | 25.7      | 20613.54              |
+| Concord                                          | 25.4      | 23268.92              |
+| Southeastern Regional Vocational Technical       | 25.3      | 19974.35              |
+| Bourne                                           | 24.4      | 20294.55              |
+| Andover                                          | 23.7      | 20941.36              |
+| Sherborn                                         | 22.9      | 21626.57              |
+| Mohawk Trail                                     | 21.5      | 23807.15              |
+| Assabet Valley Regional Vocational Technical     | 21.3      | 20447.01              |
+| Chesterfield-Goshen                              | 20.8      | 22270.34              |
+| Northern Berkshire Regional Vocational Technical | 20.4      | 24890.29              |
+| Mattapoisett                                     | 20.4      | 23678.54              |
+| Dover                                            | 19.3      | 25842.02              |
+| Amherst-Pelham                                   | 19.2      | 24555.36              |
+| Gloucester                                       | 19.2      | 20131.02              |
+| Deerfield                                        | 19.1      | 20520.69              |
+| Falmouth                                         | 18.8      | 22868.01              |
+| Weston                                           | 18.6      | 30295.95              |
+| Bristol County Agricultural                      | 18.6      | 21286.32              |
+| Framingham                                       | 18.5      | 21393.73              |
+| Sandwich                                         | 18.5      | 21246.59              |
+| Minuteman Regional Vocational Technical          | 18.3      | 32814.39              |
+| Erving                                           | 18.2      | 28975.86              |
+| Richmond                                         | 18.2      | 22551.06              |
+| Canton                                           | 18.2      | 20012.55              |
+| Newburyport                                      | 18        | 19971.98              |
+| Montachusett Regional Vocational Technical       | 17.7      | 21573.81              |
+| Nashoba Valley Regional Vocational Technical     | 17.6      | 20629.19              |
+| Watertown                                        | 17.5      | 25550.44              |
+| Wellesley                                        | 17.4      | 24183.11              |
+| Rockport                                         | 17.3      | 24917.77              |
+| Westwood                                         | 17.3      | 20499.76              |
+| Plymouth                                         | 17.3      | 19562.98              |
+| Williamsburg                                     | 17.2      | 21219.78              |
+| Medford                                          | 17.2      | 20899.84              |
++--------------------------------------------------+-----------+-----------------------+
